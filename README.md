@@ -1,2 +1,2 @@
 # ECDF-Plotter
-Input a dataframe, yield an ECDF Plot
+Input a NumPy array, yield an ECDF Plot
